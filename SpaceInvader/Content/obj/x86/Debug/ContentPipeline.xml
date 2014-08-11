@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Starfield1024x768.png</Source>
+      <Name>Starfield1024x768</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shazib\Desktop\New folder (4)\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\Starfield1024x768.xnb</Output>
+      <Time>2010-02-07T13:53:18+00:00</Time>
+    </Item>
+    <Item>
+      <Source>LaserBase.png</Source>
+      <Name>LaserBase</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shazib\Desktop\New folder (4)\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\LaserBase.xnb</Output>
+      <Time>2010-02-21T23:10:24+00:00</Time>
+    </Item>
+    <Item>
+      <Source>bullet.png</Source>
+      <Name>bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shazib\Desktop\New folder (4)\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\bullet.xnb</Output>
+      <Time>2010-02-21T23:12:06+00:00</Time>
+    </Item>
+    <Item>
+      <Source>inv1.png</Source>
+      <Name>inv1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shazib\Desktop\New folder (4)\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\inv1.xnb</Output>
+      <Time>2010-02-21T20:05:20+00:00</Time>
+    </Item>
+    <Item>
+      <Source>inv12.png</Source>
+      <Name>inv12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shazib\Desktop\New folder (4)\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\inv12.xnb</Output>
+      <Time>2010-02-21T20:05:20+00:00</Time>
+    </Item>
+    <Item>
+      <Source>invaderkilled.wav</Source>
+      <Name>invaderkilled</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shazib\Desktop\New folder (4)\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\invaderkilled.xnb</Output>
+      <Time>2010-02-28T22:10:58+00:00</Time>
+    </Item>
+    <Item>
+      <Source>GameFont.spritefont</Source>
+      <Name>GameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shazib\Desktop\New folder (4)\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\GameFont.xnb</Output>
+      <Time>2012-04-19T15:00:28.2002952+01:00</Time>
+    </Item>
+    <Item>
+      <Source>ufo.png</Source>
+      <Name>ufo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shazib\Desktop\New folder (4)\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\ufo.xnb</Output>
+      <Time>2012-04-19T17:30:46.8958413+01:00</Time>
+    </Item>
+    <Item>
+      <Source>invadermove.wav</Source>
+      <Name>invadermove</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shazib\Desktop\New folder (4)\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\invadermove.xnb</Output>
+      <Time>2012-04-20T00:49:59.7015108+01:00</Time>
+    </Item>
+    <Item>
+      <Source>shoot.wav</Source>
+      <Name>shoot</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shazib\Desktop\New folder (4)\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\shoot.xnb</Output>
+      <Time>2012-04-20T00:50:05.7843325+01:00</Time>
+    </Item>
+    <Item>
+      <Source>theme.wav</Source>
+      <Name>theme</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Shazib\Desktop\New folder (4)\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\theme.xnb</Output>
+      <Time>2012-04-20T13:33:53.4221821+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Shazib\Desktop\New folder (4)\SpaceInvader\SpaceInvader\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Shazib\Desktop\New folder (4)\SpaceInvader\SpaceInvader\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Shazib\Desktop\New folder (4)\SpaceInvader\SpaceInvader\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Shazib\Desktop\New folder (4)\SpaceInvader\SpaceInvader\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-03-20T22:28:43.5496923+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

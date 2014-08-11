@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SpaceInvader">
+</Property><Property Name="Solution File" Value="C:\Users\Shazib\Desktop\New folder (4)\SpaceInvader\SpaceInvader.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Shazib\Desktop\New folder (4)\SpaceInvader\SpaceInvader.suo">
+</Property><Property Name="Date" Value="18 April 2012">
+</Property><Property Name="Time" Value="18:11">
+</Property><Property Name="Solution" Value="SpaceInvader">
+</Property><Property Name="Solution File" Value="C:\Users\Shazib\Desktop\New folder (4)\SpaceInvader\SpaceInvader.sln">
+</Property><Property Name="Date" Value="18 April 2012">
+</Property><Property Name="Time" Value="18:11:19">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SpaceInvader.sln" Description="File successfully backed up as C:\Users\Shazib\Desktop\New folder (4)\SpaceInvader\Backup\SpaceInvader.sln">
+</Event><Event ErrorLevel="0" Project="" Source="SpaceInvader.suo" Description="File successfully backed up as C:\Users\Shazib\Desktop\New folder (4)\SpaceInvader\Backup\SpaceInvader.suo">
+</Event><Event ErrorLevel="0" Project="SpaceInvader" Source="SpaceInvader\SpaceInvader.csproj" Description="Upgraded XNA Game Studio project to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="SpaceInvader" Source="SpaceInvader\SpaceInvader.csproj" Description="Project file successfully backed up as C:\Users\Shazib\Desktop\New folder (4)\SpaceInvader\Backup\SpaceInvader\SpaceInvader.csproj">
+</Event><Event ErrorLevel="0" Project="SpaceInvader" Source="SpaceInvader\SpaceInvader.csproj.user" Description="Project user file successfully backed up as C:\Users\Shazib\Desktop\New folder (4)\SpaceInvader\Backup\SpaceInvader\SpaceInvader.csproj.user">
+</Event><Event ErrorLevel="0" Project="SpaceInvader" Source="SpaceInvader\Invader.cs" Description="File successfully backed up as C:\Users\Shazib\Desktop\New folder (4)\SpaceInvader\Backup\SpaceInvader\Invader.cs">
+</Event><Event ErrorLevel="0" Project="SpaceInvader" Source="SpaceInvader\Missile.cs" Description="File successfully backed up as C:\Users\Shazib\Desktop\New folder (4)\SpaceInvader\Backup\SpaceInvader\Missile.cs">
+</Event><Event ErrorLevel="0" Project="SpaceInvader" Source="SpaceInvader\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Shazib\Desktop\New folder (4)\SpaceInvader\Backup\SpaceInvader\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SpaceInvader" Source="SpaceInvader\Program.cs" Description="File successfully backed up as C:\Users\Shazib\Desktop\New folder (4)\SpaceInvader\Backup\SpaceInvader\Program.cs">
+</Event><Event ErrorLevel="0" Project="SpaceInvader" Source="SpaceInvader\SpaceInvaders.cs" Description="File successfully backed up as C:\Users\Shazib\Desktop\New folder (4)\SpaceInvader\Backup\SpaceInvader\SpaceInvaders.cs">
+</Event><Event ErrorLevel="0" Project="SpaceInvader" Source="SpaceInvader\Game.ico" Description="File successfully backed up as C:\Users\Shazib\Desktop\New folder (4)\SpaceInvader\Backup\SpaceInvader\Game.ico">
+</Event><Event ErrorLevel="0" Project="SpaceInvader" Source="SpaceInvader\GameThumbnail.png" Description="File successfully backed up as C:\Users\Shazib\Desktop\New folder (4)\SpaceInvader\Backup\SpaceInvader\GameThumbnail.png">
+</Event><Event ErrorLevel="0" Project="SpaceInvader" Source="SpaceInvader\SpaceInvader.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SpaceInvader" Source="SpaceInvader\SpaceInvader.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SpaceInvader.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SpaceInvader.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SpaceInvader" Source="SpaceInvader\SpaceInvader.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SpaceInvader" Source="SpaceInvader\SpaceInvader.csproj" Description="Upgraded XNA Framework references to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="bullet.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Content.contentproj" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="inv1.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="inv12.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="invaderkilled.wav" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="LaserBase.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Starfield1024x768.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Thumbs.db" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="SpaceInvaderContent" Source="SpaceInvader\Content\SpaceInvaderContent.contentproj" Description="Upgraded XNA Game Studio nested content projects to XNA Framework 4.0 and promoted to sibling project.">
+</Event></UpgradeLog>

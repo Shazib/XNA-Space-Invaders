@@ -1,0 +1,5 @@
+F:\JAN\DOCUMENT\notes\Software Development UG1\0910\Lectures\17\SpaceInvader\SpaceInvader\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\JAN\DOCUMENT\notes\Software Development UG1\0910\Practicals\19\SpaceInvader\SpaceInvader\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Software Development UG1\0910\Practicals\19\SpaceInvader\SpaceInvader\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\JAN\DOCUMENT\notes\Software Development UG1\0910\Practicals\20\SpaceInvader\SpaceInvader\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\JAN\DOCUMENT\notes\Software Development UG1\0910\Practicals\21\Before\SpaceInvader\SpaceInvader\Content\obj\x86\Debug\ResolveAssemblyReference.cache

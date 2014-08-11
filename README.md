@@ -14,6 +14,7 @@ Remake of the popular Space Invaders game in XNA
 ![alt tag](https://raw.githubusercontent.com/Shazib/XNA-Space-Invaders/master/screenshots/10.png)
 ![alt tag](https://raw.githubusercontent.com/Shazib/XNA-Space-Invaders/master/screenshots/11.png)
 ![alt tag](https://raw.githubusercontent.com/Shazib/XNA-Space-Invaders/master/screenshots/12.png)
-![alt tag](https://raw.githubusercontent.com/Shazib/XNA-Space-Invaders/master/screenshots/13.png)
 ![alt tag](https://raw.githubusercontent.com/Shazib/XNA-Space-Invaders/master/screenshots/14.png)
+![alt tag](https://raw.githubusercontent.com/Shazib/XNA-Space-Invaders/master/screenshots/13.png)
+
 
